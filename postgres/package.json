@@ -1,0 +1,24 @@
+{
+  "name": "postgres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "pg": "^7.4.1",
+    "settings.json": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lorena Reyes",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoreRey/Postgres.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LoreRey/Postgres/issues"
+  },
+  "homepage": "https://github.com/LoreRey/Postgres#readme"
+}
